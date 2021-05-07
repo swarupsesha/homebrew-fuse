@@ -11,5 +11,6 @@
   "fuse-zip": "fuse-zip-mac",
   "gcsfuse": "gcsfuse-mac",
   "ntfs-3g": "ntfs-3g-mac",
-  "sshfs": "sshfs-mac"
+  "sshfs": "sshfs-mac",
+  "s3fs":"s3fs-mac"
 }
